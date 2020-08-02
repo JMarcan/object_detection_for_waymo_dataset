@@ -15,8 +15,7 @@ You can find commented code complemented by auxiliary functions like:
 ## Usage
 You can find the code in notebook file `2D_object_recognition.ipynb`
 The notebook is prepared to be run on Google Colab accessing data stored on your google drive.
-
-**Instructions to execute basic scenario:**
+Below you will find instructions to execute basic scenario.
 
 **1.Prepare folder structure on your google drive**
 
