@@ -32,12 +32,12 @@ So training folder will look like:
 - ...
 - `your_folder/training/training_n`   
 
-3. Open notebook on your Google Colab and run code to extract ground truth from the dataset
+3.Open notebook on your Google Colab and run code to extract ground truth from the dataset
 - This extracts, from tfrecord-video-streams, images with corresponding ground truth TXT files into folder `exctracted_gt`
 - Each object annotation is stored as separate line in this format: `<object-class> <center_x> <center_y> <width> <height>`. Example: `1 809 719 89 73`
 - This ground truth is then used for KPI calculation of your prediction and training of the network
 
-5. Execute object detection
+5.Execute object detection
 ![preview_gif](assets/preview_gif.gif)
 
 ## Libraries used
